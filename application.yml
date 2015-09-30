@@ -1,0 +1,2 @@
+gates:
+  bookingService: http://10.10.10.10/do/you/even/book 
